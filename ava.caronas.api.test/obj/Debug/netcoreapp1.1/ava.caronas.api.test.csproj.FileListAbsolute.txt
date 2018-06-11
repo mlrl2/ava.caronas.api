@@ -1,0 +1,17 @@
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.test.deps.json
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.test.runtimeconfig.json
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.test.runtimeconfig.dev.json
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.test.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.test.pdb
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\bin\Debug\netcoreapp1.1\ava.caronas.api.pdb
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.csprojAssemblyReference.cache
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.csproj.CoreCompileInputs.cache
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.AssemblyInfoInputs.cache
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.AssemblyInfo.cs
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.csproj.CopyComplete
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.dll
+C:\Users\marina.resende.lira\Desktop\projects .net\ava.caronas.api\ava.caronas.api.test\obj\Debug\netcoreapp1.1\ava.caronas.api.test.pdb

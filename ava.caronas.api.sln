@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ava.caronas.api", "ava.caronas.api\ava.caronas.api.csproj", "{87BACF65-9739-41D9-9D98-F500E79F53F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ava.caronas.api.test", "ava.caronas.api.test\ava.caronas.api.test.csproj", "{00672DC8-E432-403C-9DD6-07D5FB798E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BACF65-9739-41D9-9D98-F500E79F53F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BACF65-9739-41D9-9D98-F500E79F53F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BACF65-9739-41D9-9D98-F500E79F53F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BACF65-9739-41D9-9D98-F500E79F53F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00672DC8-E432-403C-9DD6-07D5FB798E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00672DC8-E432-403C-9DD6-07D5FB798E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00672DC8-E432-403C-9DD6-07D5FB798E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00672DC8-E432-403C-9DD6-07D5FB798E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2408CFA9-103B-4EC2-BA81-B27C78F4BA45}
+	EndGlobalSection
+EndGlobal
